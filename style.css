@@ -1,0 +1,268 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+}
+
+header {
+    margin: 60px 300px;
+    background-image: url(./images/Banner\ Image.png);
+    width: 1420px;
+    height: 620px;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    color: white;
+}
+
+.gradiant {
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    width: 1320px;
+    height: 620px;
+}
+
+.h1 {
+    display: block;
+    justify-content: center;
+}
+
+.h2 {
+    padding-top: 180px;
+    padding-bottom: 10px;
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.h3 {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 68px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+}
+
+.first-section {
+    padding-left: 600px;
+    padding-top: 110px;
+    padding-bottom: 150px;
+
+}
+
+.h4 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 95px;
+    font-style: normal;
+    font-weight: 700;
+    padding-left: 180px;
+    padding-bottom: 60px;
+}
+.button2{
+
+    padding: 16px 32px;
+    gap: px;
+    border-radius: 8px;
+    background: #F00;
+    border: none;
+    color: white;
+    font-family: Inter;
+    font-size: 20px;
+    margin-right: 500px;
+
+}
+
+.h6 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 500;
+    padding-left: 140px;
+}
+
+.h7 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 59px;
+    font-weight: 700;
+    padding-left: 140px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.h8 {
+    width: 750x;
+    height: 500px;
+}
+
+.second-section {
+    background-image: url(./images/Vectorrr.png);
+    width: 1320px;
+    height: 620px;
+    background-repeat: no-repeat;
+    margin: 60px 300px;
+}
+
+.gradiant-2 {
+    border-radius: 16px;
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    width: 1320px;
+    height: 600px;
+}
+
+.h9 {
+    color: #FFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 60px;
+
+}
+
+.h10 {
+    width: 630px;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 58px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7px;
+    padding-bottom: 25px;
+}
+
+.h11 {
+    width: 660px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 50px;
+}
+
+.h12 {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    padding-left: 25px;
+}
+
+.section-3 {
+    width: 1330px;
+    height: 480px;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin-left: 290px;
+    border-radius: 15px;
+    justify-content: center;
+    margin-bottom: 130px;
+}
+
+.h13 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 40px;
+    padding-left: 0px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    text-align: center;
+   
+}
+
+.button {
+    display: flex;
+    padding: 16px 32px;
+    justify-content: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #F00;
+    border: none;
+    color: white;
+    margin-left: 600px;
+
+}
+
+.section-4 {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    margin-left: 50px;
+}
+
+.h14 {
+    display: flex;
+    justify-content: center;
+}
+
+.h15 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+
+.h16 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 40px;
+    font-weight: 900;
+    padding-bottom: 25px;
+}
+
+.h17 {
+    padding-bottom: 110px;
+    width: 500px;
+    color: black 
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+}
+
+.radius {
+    width: 340px;
+    height: 340px;
+    border-radius: 463px;
+    border: 10px solid #F00;
+    padding: 40px;
+    margin-bottom: 40px;
+}
+
+.h18 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+
+.h19 {
+    width: 250px;
+    color:black;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    padding-bottom: 45px;
+}
+.h20{
+    margin-right: 50px;
+}
+.h21{
+    margin-right: 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+.h22{
+    padding-left: 70px;
+    
+}
