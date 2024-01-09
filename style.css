@@ -291,9 +291,75 @@ header {
     cursor: pointer;
     background-color: #F00
 }
+.section-5 {
+    margin-top: 140px;
+    margin-bottom: 150px;
+ 
+}
+
+.h23 {
+    align-items: center;
+    padding-bottom: 70px;
+}
+
+.h24 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 34px;
+    font-weight: 500;
+    text-align: center;
+    padding-bottom: 20px;
+
+}
+
+.h25 {
+    text-align: center;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 75px;
+    font-weight: 900;
+    padding-bottom: 30px;
+}
+
+.h26 {
+    padding-left: 400px;
+    width: 1068px;
+    text-align: center;
+    color: black;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+} 
+.h27{
+    width: 100%;
+    position: relative;
+    text-align: center;
+}
+.h28{
+    width: 600px;
+    height: 450px;
+    position: relative;
+    top: 245px;
+}
+.h29{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: 4px;
+    left: 310px;
+}
+.h30{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: -45px;
+    left: -264px;
+}
+
 
 .section-7 {
-
+    
     margin-left: 295px;
     width: 1320px;
     height: 616px;
